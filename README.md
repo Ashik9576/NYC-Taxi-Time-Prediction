@@ -5,13 +5,13 @@ The New York City Taxi Fare prediction challenge is a supervised regression mach
 Some of the important attributes of the dataset are discussed below:
 * Id: which provides a unique identification to a trip.
 * vendor id: a unique code which gets assigned to the different cab companies.
-pickup datetime: starting statistics of the pickup.
-dropoff datetime: ending statistics of the pickup.
-passenger count: passengers travelling in a particular trip.
-pickup longitude: longitudinal location of the pickup.
-pickup latitude: latitudinal location of the pickup.
-dropoff longitude: longitudinal location of the drop off.
-dropoff latitude: latitudinal location of the drop off.
-store and fwd flag:  a code to identify whether the data is stored on the device and then gets forwarded to the database.
-trip duration: the total time of the trip in seconds.
+* pickup datetime: starting statistics of the pickup.
+* dropoff datetime: ending statistics of the pickup.
+* passenger count: passengers travelling in a particular trip.
+* pickup longitude: longitudinal location of the pickup.
+* pickup latitude: latitudinal location of the pickup.
+* dropoff longitude: longitudinal location of the drop off.
+* dropoff latitude: latitudinal location of the drop off.
+* store and fwd flag:  a code to identify whether the data is stored on the device and then gets forwarded to the database.
+* trip duration: the total time of the trip in seconds.
 
