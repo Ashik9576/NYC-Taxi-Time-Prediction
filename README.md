@@ -69,6 +69,5 @@ We are successfully able to implement both algorithms on the New York City Taxi 
 
 
 References-
-MachineLearningMastery 
-GeeksforGeeks
-Analytics Vidhya
+* https://www.kaggle.com/c/nyc-taxi-trip-duration
+* https://www.analyticsvidhya.com/blog/2021/01/exploratory-data-analysis-on-nyc-taxi-trip-duration-dataset/
