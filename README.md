@@ -1,6 +1,9 @@
 # NYC Taxi-Trip-Time-Prediction
 The dataset is based on the 2016 NYC Yellow Cab trip record data made available in Big Query on Google Cloud Platform. The data was originally published by the NYC Taxi and Limousine Commission (TLC). The data was sampled and cleaned for the purposes of this project. Based on individual trip attributes, you should predict the duration of each trip in the test set. NYC Taxi Data.csv - the training set (contains 1458644 trip records)
 
+![download](https://user-images.githubusercontent.com/79791821/156911225-631e704a-64a0-4909-8dab-703d1a9cf5e3.jpg)
+
+
 The New York City Taxi Fare prediction challenge is a supervised regression machine learning task. Given pickup and drop-off locations, the pickup timestamp, and the passenger count, the objective is to predict the fare of the taxi ride. this problem isn’t 100% reflective of those in industry, but it does present a realistic dataset and task on which we can hone our machine learning skills.
 Some of the important attributes of the dataset are discussed below:
 * Id: which provides a unique identification to a trip.
